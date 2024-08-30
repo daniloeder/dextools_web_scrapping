@@ -33,7 +33,7 @@ Before you begin, ensure you have the following installed:
    Open a terminal and run:
 
    ```bash
-   git clone https://github.com/your-username/dextools_web_scrapping.git
+   git clone https://github.com/daniloeder/dextools_web_scrapping.git
    cd dextools_web_scrapping
    ```
 
